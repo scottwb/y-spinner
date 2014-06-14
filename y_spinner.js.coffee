@@ -1,5 +1,5 @@
 # A simple CoffeeScript class with static methods for turning any
-# DOM element into a spinner by rotating it in the Y-axis until you stop it.
+# DOM element into a spinner by rotating it on its Y-axis until you stop it.
 #
 # Requires jQuery.
 #
