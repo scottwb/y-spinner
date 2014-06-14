@@ -20,7 +20,7 @@ YSpinner.stop(logo)
 
 ## Author
 
-Scott W. Bradley - [http://scottwb.com](http://scottwb.com)
+_Copyright &copy; 2014 Scott W. Bradley - [http://scottwb.com](http://scottwb.com)_
 
 ## Contributing
 
