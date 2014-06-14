@@ -1,6 +1,6 @@
 # MIT License
 
-Copyright (c) 2014 Scott W. Bradley <scottwb@gmail.com>
+_Copyright &copy; 2014 Scott W. Bradley - [http://scottwb.com](http://scottwb.com)_
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
