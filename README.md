@@ -4,8 +4,6 @@ YSpinner is a simple CoffeeScript class with static methods for turning any DOM 
 
 Requires jQuery.
 
-_Copyright &copy; 2014 Scott W. Bradley - Licensed under the MIT License_
-
 ## Installation
 Drop `y_spinner.js.coffee` into your Rails `app/assets/javascripts` if you are using Rails and its Asset Pipeline. Otherwise, compile it using `coffee` and source it into your page.
 
