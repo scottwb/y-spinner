@@ -32,4 +32,4 @@ Scott W. Bradley - [http://scottwb.com](http://scottwb.com)
 
 # License
 
-This code is licensed under the [MIT License](https://github.com/scottwb/y-spinner/LICENSE.md).
+This code is licensed under the [MIT License](https://github.com/scottwb/y-spinner/blob/master/LICENSE.md).
